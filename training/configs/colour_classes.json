@@ -1,0 +1,23 @@
+{
+  "classes": [
+    "white",
+    "black",
+    "silver_grey",
+    "red",
+    "blue",
+    "green",
+    "yellow",
+    "brown",
+    "orange",
+    "other",
+    "unknown"
+  ],
+  "default_threshold": 0.55,
+  "canonical_aliases": {
+    "silver": "silver_grey",
+    "grey": "silver_grey",
+    "gray": "silver_grey",
+    "dark_grey": "silver_grey",
+    "dark_gray": "silver_grey"
+  }
+}

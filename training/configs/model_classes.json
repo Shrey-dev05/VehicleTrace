@@ -1,0 +1,22 @@
+{
+  "hierarchy": {
+    "Maruti_Suzuki": ["Swift", "Baleno", "Brezza", "Dzire", "Ertiga", "WagonR", "Alto", "Other", "Unknown"],
+    "Tata": ["Nexon", "Punch", "Harrier", "Tiago", "Safari", "Altroz", "Other", "Unknown"],
+    "Hyundai": ["Creta", "i20", "Venue", "Verna", "Grand_i10", "Alcazar", "Other", "Unknown"],
+    "Mahindra": ["Thar", "Scorpio", "XUV700", "Bolero", "XUV300", "XUV400", "Other", "Unknown"],
+    "Honda": ["City", "Amaze", "Elevate", "Civic", "Other", "Unknown"],
+    "Toyota": ["Fortuner", "Innova", "Urban_Cruiser", "Glanza", "Hyryder", "Other", "Unknown"],
+    "Kia": ["Seltos", "Sonet", "Carens", "EV6", "Other", "Unknown"],
+    "Renault": ["Kwid", "Triber", "Kiger", "Duster", "Other", "Unknown"],
+    "Volkswagen": ["Polo", "Taigun", "Virtus", "Vento", "Other", "Unknown"],
+    "Skoda": ["Kushaq", "Slavia", "Octavia", "Superb", "Other", "Unknown"],
+    "MG": ["Hector", "Astor", "ZS_EV", "Comet_EV", "Other", "Unknown"],
+    "Nissan": ["Magnite", "Kicks", "Other", "Unknown"],
+    "Mercedes_Benz": ["C_Class", "E_Class", "GLC", "GLE", "Other", "Unknown"],
+    "BMW": ["3_Series", "5_Series", "X1", "X3", "X5", "Other", "Unknown"],
+    "Audi": ["A4", "A6", "Q3", "Q5", "Q7", "Other", "Unknown"],
+    "Other": ["Other", "Unknown"],
+    "Unknown": ["Unknown"]
+  },
+  "default_threshold": 0.60
+}

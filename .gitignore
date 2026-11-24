@@ -1,0 +1,39 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Testing & Virtual Environments
+.pytest_cache/
+.coverage
+htmlcov/
+venv/
+.venv/
+env/
+
+# Environment Variables & Secrets
+.env
+*.env
+*.env.local
+
+# Storage & Runtime Media
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/crops/*
+!storage/crops/.gitkeep
+storage/outputs/*
+!storage/outputs/.gitkeep
+storage/*.db
+storage/*.sqlite*
+
+# Large Model Weights (>100MB exceeds GitHub hard limit)
+*.safetensors
+model_artifacts/trocr_plate/model.safetensors
+
+# OS & IDE artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

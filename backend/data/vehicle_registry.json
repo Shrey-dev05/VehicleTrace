@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "number_plate_raw": "CG 04 KL 4821",
+    "registration_number": "CG04KL4821",
+    "body_colour": "White",
+    "manufacturer": "Maruti Suzuki",
+    "vehicle_model": "Swift",
+    "category_type": "Hatchback",
+    "state": "CG"
+  },
+  {
+    "id": 2,
+    "number_plate_raw": "MH 12 RT 7305",
+    "registration_number": "MH12RT7305",
+    "body_colour": "Black",
+    "manufacturer": "Hyundai",
+    "vehicle_model": "Creta",
+    "category_type": "SUV",
+    "state": "MH"
+  },
+  {
+    "id": 3,
+    "number_plate_raw": "DL 08 CA 1189",
+    "registration_number": "DL08CA1189",
+    "body_colour": "Silver",
+    "manufacturer": "Honda",
+    "vehicle_model": "City",
+    "category_type": "Sedan",
+    "state": "DL"
+  },
+  {
+    "id": 4,
+    "number_plate_raw": "KA 03 MN 6642",
+    "registration_number": "KA03MN6642",
+    "body_colour": "Red",
+    "manufacturer": "Tata",
+    "vehicle_model": "Nexon",
+    "category_type": "Compact SUV",
+    "state": "KA"
+  },
+  {
+    "id": 5,
+    "number_plate_raw": "TN 09 BX 2956",
+    "registration_number": "TN09BX2956",
+    "body_colour": "Grey",
+    "manufacturer": "Toyota",
+    "vehicle_model": "Innova Crysta",
+    "category_type": "MPV",
+    "state": "TN"
+  },
+  {
+    "id": 6,
+    "number_plate_raw": "UP 32 HD 8417",
+    "registration_number": "UP32HD8417",
+    "body_colour": "White",
+    "manufacturer": "Mahindra",
+    "vehicle_model": "Scorpio-N",
+    "category_type": "SUV",
+    "state": "UP"
+  },
+  {
+    "id": 7,
+    "number_plate_raw": "RJ 14 CK 3370",
+    "registration_number": "RJ14CK3370",
+    "body_colour": "Blue",
+    "manufacturer": "Maruti Suzuki",
+    "vehicle_model": "Dzire",
+    "category_type": "Sedan",
+    "state": "RJ"
+  },
+  {
+    "id": 8,
+    "number_plate_raw": "GJ 05 PQ 9023",
+    "registration_number": "GJ05PQ9023",
+    "body_colour": "Black",
+    "manufacturer": "Mahindra",
+    "vehicle_model": "Thar",
+    "category_type": "Off-road SUV",
+    "state": "GJ"
+  },
+  {
+    "id": 9,
+    "number_plate_raw": "MP 09 ZA 5518",
+    "registration_number": "MP09ZA5518",
+    "body_colour": "Silver",
+    "manufacturer": "Hyundai",
+    "vehicle_model": "i20",
+    "category_type": "Hatchback",
+    "state": "MP"
+  },
+  {
+    "id": 10,
+    "number_plate_raw": "CG 07 AB 1764",
+    "registration_number": "CG07AB1764",
+    "body_colour": "Red",
+    "manufacturer": "Hero",
+    "vehicle_model": "Splendor Plus",
+    "category_type": "Motorcycle",
+    "state": "CG"
+  },
+  {
+    "id": 11,
+    "number_plate_raw": "MH 31 DE 4096",
+    "registration_number": "MH31DE4096",
+    "body_colour": "Black",
+    "manufacturer": "Royal Enfield",
+    "vehicle_model": "Classic 350",
+    "category_type": "Motorcycle",
+    "state": "MH"
+  },
+  {
+    "id": 12,
+    "number_plate_raw": "DL 01 SV 7731",
+    "registration_number": "DL01SV7731",
+    "body_colour": "White",
+    "manufacturer": "Honda",
+    "vehicle_model": "Activa 6G",
+    "category_type": "Scooter",
+    "state": "DL"
+  },
+  {
+    "id": 13,
+    "number_plate_raw": "KA 51 JK 2208",
+    "registration_number": "KA51JK2208",
+    "body_colour": "Blue",
+    "manufacturer": "TVS",
+    "vehicle_model": "Apache RTR 160",
+    "category_type": "Motorcycle",
+    "state": "KA"
+  },
+  {
+    "id": 14,
+    "number_plate_raw": "TN 22 FG 6659",
+    "registration_number": "TN22FG6659",
+    "body_colour": "Yellow",
+    "manufacturer": "Bajaj",
+    "vehicle_model": "RE Compact",
+    "category_type": "Auto Rickshaw (3-Wheeler)",
+    "state": "TN"
+  },
+  {
+    "id": 15,
+    "number_plate_raw": "UP 16 MM 3842",
+    "registration_number": "UP16MM3842",
+    "body_colour": "Green",
+    "manufacturer": "Piaggio",
+    "vehicle_model": "Ape City",
+    "category_type": "Auto Rickshaw (3-Wheeler)",
+    "state": "UP"
+  },
+  {
+    "id": 16,
+    "number_plate_raw": "CG 10 TY 5107",
+    "registration_number": "CG10TY5107",
+    "body_colour": "White",
+    "manufacturer": "Tata",
+    "vehicle_model": "Ace Gold",
+    "category_type": "Mini Truck (LCV)",
+    "state": "CG"
+  },
+  {
+    "id": 17,
+    "number_plate_raw": "MH 04 GH 8870",
+    "registration_number": "MH04GH8870",
+    "body_colour": "White",
+    "manufacturer": "Ashok Leyland",
+    "vehicle_model": "Dost",
+    "category_type": "Light Commercial Vehicle",
+    "state": "MH"
+  },
+  {
+    "id": 18,
+    "number_plate_raw": "GJ 01 WX 1425",
+    "registration_number": "GJ01WX1425",
+    "body_colour": "Orange",
+    "manufacturer": "Eicher",
+    "vehicle_model": "Pro 3015",
+    "category_type": "Truck (HCV)",
+    "state": "GJ"
+  },
+  {
+    "id": 19,
+    "number_plate_raw": "RJ 20 LP 7294",
+    "registration_number": "RJ20LP7294",
+    "body_colour": "Yellow",
+    "manufacturer": "Tata",
+    "vehicle_model": "Starbus",
+    "category_type": "Bus",
+    "state": "RJ"
+  },
+  {
+    "id": 20,
+    "number_plate_raw": "DL 03 NR 6031",
+    "registration_number": "DL03NR6031",
+    "body_colour": "Silver",
+    "manufacturer": "Kia",
+    "vehicle_model": "Seltos",
+    "category_type": "Compact SUV",
+    "state": "DL"
+  },
+  {
+    "id": 21,
+    "number_plate_raw": "KA 05 UV 9586",
+    "registration_number": "KA05UV9586",
+    "body_colour": "White",
+    "manufacturer": "Maruti Suzuki",
+    "vehicle_model": "Brezza",
+    "category_type": "Compact SUV",
+    "state": "KA"
+  },
+  {
+    "id": 22,
+    "number_plate_raw": "MP 04 CD 2713",
+    "registration_number": "MP04CD2713",
+    "body_colour": "Grey",
+    "manufacturer": "Maruti Suzuki",
+    "vehicle_model": "Ertiga",
+    "category_type": "MPV",
+    "state": "MP"
+  },
+  {
+    "id": 23,
+    "number_plate_raw": "TN 07 JB 4468",
+    "registration_number": "TN07JB4468",
+    "body_colour": "Black",
+    "manufacturer": "Toyota",
+    "vehicle_model": "Fortuner",
+    "category_type": "Full-size SUV",
+    "state": "TN"
+  },
+  {
+    "id": 24,
+    "number_plate_raw": "UP 70 AS 3359",
+    "registration_number": "UP70AS3359",
+    "body_colour": "Red",
+    "manufacturer": "Honda",
+    "vehicle_model": "Shine 125",
+    "category_type": "Motorcycle",
+    "state": "UP"
+  },
+  {
+    "id": 25,
+    "number_plate_raw": "CG 04 MX 6924",
+    "registration_number": "CG04MX6924",
+    "body_colour": "Blue",
+    "manufacturer": "Suzuki",
+    "vehicle_model": "Access 125",
+    "category_type": "Scooter",
+    "state": "CG"
+  },
+  {
+    "id": 26,
+    "number_plate_raw": "MH 14 QW 1087",
+    "registration_number": "MH14QW1087",
+    "body_colour": "Black",
+    "manufacturer": "Yamaha",
+    "vehicle_model": "R15 V4",
+    "category_type": "Sports Motorcycle",
+    "state": "MH"
+  },
+  {
+    "id": 27,
+    "number_plate_raw": "GJ 18 ZE 5742",
+    "registration_number": "GJ18ZE5742",
+    "body_colour": "White",
+    "manufacturer": "TVS",
+    "vehicle_model": "Jupiter",
+    "category_type": "Scooter",
+    "state": "GJ"
+  },
+  {
+    "id": 28,
+    "number_plate_raw": "DL 12 RK 8305",
+    "registration_number": "DL12RK8305",
+    "body_colour": "Silver",
+    "manufacturer": "Tata",
+    "vehicle_model": "Punch",
+    "category_type": "Micro SUV",
+    "state": "DL"
+  },
+  {
+    "id": 29,
+    "number_plate_raw": "RJ 27 HT 2619",
+    "registration_number": "RJ27HT2619",
+    "body_colour": "White",
+    "manufacturer": "Mahindra",
+    "vehicle_model": "Bolero Pickup",
+    "category_type": "Pickup Truck",
+    "state": "RJ"
+  },
+  {
+    "id": 30,
+    "number_plate_raw": "KA 19 PL 7183",
+    "registration_number": "KA19PL7183",
+    "body_colour": "Green",
+    "manufacturer": "Mahindra",
+    "vehicle_model": "Tractor 575 DI",
+    "category_type": "Tractor (Agricultural)",
+    "state": "KA"
+  },
+  {
+    "id": 31,
+    "number_plate_raw": "TN 38 CV 3964",
+    "registration_number": "TN38CV3964",
+    "body_colour": "Maroon",
+    "manufacturer": "Hyundai",
+    "vehicle_model": "Verna",
+    "category_type": "Sedan",
+    "state": "TN"
+  },
+  {
+    "id": 32,
+    "number_plate_raw": "UP 14 DG 5271",
+    "registration_number": "UP14DG5271",
+    "body_colour": "White",
+    "manufacturer": "Maruti Suzuki",
+    "vehicle_model": "Eeco",
+    "category_type": "Van",
+    "state": "UP"
+  },
+  {
+    "id": 33,
+    "number_plate_raw": "MP 20 BN 9408",
+    "registration_number": "MP20BN9408",
+    "body_colour": "Silver",
+    "manufacturer": "Skoda",
+    "vehicle_model": "Slavia",
+    "category_type": "Sedan",
+    "state": "MP"
+  },
+  {
+    "id": 34,
+    "number_plate_raw": "CG 08 SF 1532",
+    "registration_number": "CG08SF1532",
+    "body_colour": "White",
+    "manufacturer": "Force",
+    "vehicle_model": "Traveller",
+    "category_type": "Mini Bus / Van",
+    "state": "CG"
+  },
+  {
+    "id": 35,
+    "number_plate_raw": "MH 02 UJ 6677",
+    "registration_number": "MH02UJ6677",
+    "body_colour": "Blue",
+    "manufacturer": "Bajaj",
+    "vehicle_model": "Pulsar N160",
+    "category_type": "Motorcycle",
+    "state": "MH"
+  },
+  {
+    "id": 36,
+    "number_plate_raw": "DL 09 YM 4850",
+    "registration_number": "DL09YM4850",
+    "body_colour": "Black",
+    "manufacturer": "Volkswagen",
+    "vehicle_model": "Virtus",
+    "category_type": "Sedan",
+    "state": "DL"
+  },
+  {
+    "id": 37,
+    "number_plate_raw": "GJ 06 KT 3126",
+    "registration_number": "GJ06KT3126",
+    "body_colour": "Grey",
+    "manufacturer": "Mahindra",
+    "vehicle_model": "XUV700",
+    "category_type": "SUV",
+    "state": "GJ"
+  },
+  {
+    "id": 38,
+    "number_plate_raw": "RJ 06 PE 8093",
+    "registration_number": "RJ06PE8093",
+    "body_colour": "Red",
+    "manufacturer": "Tata",
+    "vehicle_model": "Altroz",
+    "category_type": "Hatchback",
+    "state": "RJ"
+  },
+  {
+    "id": 39,
+    "number_plate_raw": "KA 01 AZ 2345",
+    "registration_number": "KA01AZ2345",
+    "body_colour": "White",
+    "manufacturer": "Toyota",
+    "vehicle_model": "Urban Cruiser Hyryder",
+    "category_type": "Hybrid SUV",
+    "state": "KA"
+  },
+  {
+    "id": 40,
+    "number_plate_raw": "TN 10 LS 7719",
+    "registration_number": "TN10LS7719",
+    "body_colour": "Yellow",
+    "manufacturer": "Eicher",
+    "vehicle_model": "Skyline Pro",
+    "category_type": "School Bus",
+    "state": "TN"
+  },
+  {
+    "id": 41,
+    "number_plate_raw": "KA02MN1834",
+    "registration_number": "KA02MN1834",
+    "body_colour": "White",
+    "manufacturer": "Maruti Suzuki",
+    "vehicle_model": "Baleno",
+    "category_type": "Hatchback",
+    "state": "KA"
+  },
+  {
+    "id": 42,
+    "number_plate_raw": "MH15CD5207",
+    "registration_number": "MH15CD5207",
+    "body_colour": "Black",
+    "manufacturer": "Hyundai",
+    "vehicle_model": "Venue",
+    "category_type": "Compact SUV",
+    "state": "MH"
+  },
+  {
+    "id": 43,
+    "number_plate_raw": "DL10AB3391",
+    "registration_number": "DL10AB3391",
+    "body_colour": "Silver",
+    "manufacturer": "Honda",
+    "vehicle_model": "Amaze",
+    "category_type": "Sedan",
+    "state": "DL"
+  },
+  {
+    "id": 44,
+    "number_plate_raw": "CG04PR7716",
+    "registration_number": "CG04PR7716",
+    "body_colour": "Red",
+    "manufacturer": "Tata",
+    "vehicle_model": "Tiago",
+    "category_type": "Hatchback",
+    "state": "CG"
+  },
+  {
+    "id": 45,
+    "number_plate_raw": "TN11KS2480",
+    "registration_number": "TN11KS2480",
+    "body_colour": "Grey",
+    "manufacturer": "Toyota",
+    "vehicle_model": "Innova Hycross",
+    "category_type": "MPV",
+    "state": "TN"
+  },
+  {
+    "id": 46,
+    "number_plate_raw": "UP80TF6053",
+    "registration_number": "UP80TF6053",
+    "body_colour": "White",
+    "manufacturer": "Mahindra",
+    "vehicle_model": "Bolero Neo",
+    "category_type": "SUV",
+    "state": "UP"
+  },
+  {
+    "id": 47,
+    "number_plate_raw": "RJ19GH8842",
+    "registration_number": "RJ19GH8842",
+    "body_colour": "Blue",
+    "manufacturer": "Maruti Suzuki",
+    "vehicle_model": "Ciaz",
+    "category_type": "Sedan",
+    "state": "RJ"
+  },
+  {
+    "id": 48,
+    "number_plate_raw": "GJ03LM1975",
+    "registration_number": "GJ03LM1975",
+    "body_colour": "Black",
+    "manufacturer": "Mahindra",
+    "vehicle_model": "Thar Roxx",
+    "category_type": "Off-road SUV",
+    "state": "GJ"
+  },
+  {
+    "id": 49,
+    "number_plate_raw": "MP07XY4429",
+    "registration_number": "MP07XY4429",
+    "body_colour": "Silver",
+    "manufacturer": "Hyundai",
+    "vehicle_model": "Exter",
+    "category_type": "Micro SUV",
+    "state": "MP"
+  },
+  {
+    "id": 50,
+    "number_plate_raw": "KA05JD9364",
+    "registration_number": "KA05JD9364",
+    "body_colour": "Red",
+    "manufacturer": "Hero",
+    "vehicle_model": "Passion Pro",
+    "category_type": "Motorcycle",
+    "state": "KA"
+  },
+  {
+    "id": 51,
+    "number_plate_raw": "MH20EF2618",
+    "registration_number": "MH20EF2618",
+    "body_colour": "Black",
+    "manufacturer": "Royal Enfield",
+    "vehicle_model": "Bullet 350",
+    "category_type": "Motorcycle",
+    "state": "MH"
+  },
+  {
+    "id": 52,
+    "number_plate_raw": "DL04QC7085",
+    "registration_number": "DL04QC7085",
+    "body_colour": "White",
+    "manufacturer": "Honda",
+    "vehicle_model": "Dio",
+    "category_type": "Scooter",
+    "state": "DL"
+  },
+  {
+    "id": 53,
+    "number_plate_raw": "KA53NB5532",
+    "registration_number": "KA53NB5532",
+    "body_colour": "Blue",
+    "manufacturer": "TVS",
+    "vehicle_model": "Raider 125",
+    "category_type": "Motorcycle",
+    "state": "KA"
+  },
+  {
+    "id": 54,
+    "number_plate_raw": "TN01RV3907",
+    "registration_number": "TN01RV3907",
+    "body_colour": "Yellow",
+    "manufacturer": "Bajaj",
+    "vehicle_model": "Maxima C",
+    "category_type": "Auto Rickshaw (3-Wheeler)",
+    "state": "TN"
+  },
+  {
+    "id": 55,
+    "number_plate_raw": "UP25BK8160",
+    "registration_number": "UP25BK8160",
+    "body_colour": "Green",
+    "manufacturer": "Mahindra",
+    "vehicle_model": "Treo",
+    "category_type": "Electric Auto Rickshaw",
+    "state": "UP"
+  },
+  {
+    "id": 56,
+    "number_plate_raw": "CG07HW6243",
+    "registration_number": "CG07HW6243",
+    "body_colour": "White",
+    "manufacturer": "Tata",
+    "vehicle_model": "Intra V30",
+    "category_type": "Pickup Truck",
+    "state": "CG"
+  },
+  {
+    "id": 57,
+    "number_plate_raw": "MH43ST1498",
+    "registration_number": "MH43ST1498",
+    "body_colour": "White",
+    "manufacturer": "Ashok Leyland",
+    "vehicle_model": "Bada Dost",
+    "category_type": "Light Commercial Vehicle",
+    "state": "MH"
+  },
+  {
+    "id": 58,
+    "number_plate_raw": "GJ12PA7821",
+    "registration_number": "GJ12PA7821",
+    "body_colour": "Orange",
+    "manufacturer": "Eicher",
+    "vehicle_model": "Pro 2095",
+    "category_type": "Truck (MCV)",
+    "state": "GJ"
+  },
+  {
+    "id": 59,
+    "number_plate_raw": "RJ14DL4376",
+    "registration_number": "RJ14DL4376",
+    "body_colour": "Yellow",
+    "manufacturer": "Tata",
+    "vehicle_model": "Winger",
+    "category_type": "Mini Bus / Van",
+    "state": "RJ"
+  },
+  {
+    "id": 60,
+    "number_plate_raw": "DL07ZN9052",
+    "registration_number": "DL07ZN9052",
+    "body_colour": "Silver",
+    "manufacturer": "Kia",
+    "vehicle_model": "Sonet",
+    "category_type": "Compact SUV",
+    "state": "DL"
+  },
+  {
+    "id": 61,
+    "number_plate_raw": "KA09CG2764",
+    "registration_number": "KA09CG2764",
+    "body_colour": "White",
+    "manufacturer": "Maruti Suzuki",
+    "vehicle_model": "Fronx",
+    "category_type": "Compact SUV",
+    "state": "KA"
+  },
+  {
+    "id": 62,
+    "number_plate_raw": "MP09UE5918",
+    "registration_number": "MP09UE5918",
+    "body_colour": "Grey",
+    "manufacturer": "Maruti Suzuki",
+    "vehicle_model": "XL6",
+    "category_type": "MPV",
+    "state": "MP"
+  },
+  {
+    "id": 63,
+    "number_plate_raw": "TN14YH3305",
+    "registration_number": "TN14YH3305",
+    "body_colour": "Black",
+    "manufacturer": "Toyota",
+    "vehicle_model": "Fortuner Legender",
+    "category_type": "Full-size SUV",
+    "state": "TN"
+  },
+  {
+    "id": 64,
+    "number_plate_raw": "UP78MJ6689",
+    "registration_number": "UP78MJ6689",
+    "body_colour": "Red",
+    "manufacturer": "Honda",
+    "vehicle_model": "Unicorn",
+    "category_type": "Motorcycle",
+    "state": "UP"
+  },
+  {
+    "id": 65,
+    "number_plate_raw": "CG10AQ1147",
+    "registration_number": "CG10AQ1147",
+    "body_colour": "Blue",
+    "manufacturer": "Suzuki",
+    "vehicle_model": "Burgman Street",
+    "category_type": "Scooter",
+    "state": "CG"
+  },
+  {
+    "id": 66,
+    "number_plate_raw": "MH12KR8530",
+    "registration_number": "MH12KR8530",
+    "body_colour": "Black",
+    "manufacturer": "Yamaha",
+    "vehicle_model": "MT-15",
+    "category_type": "Naked Motorcycle",
+    "state": "MH"
+  },
+  {
+    "id": 67,
+    "number_plate_raw": "GJ27VD4072",
+    "registration_number": "GJ27VD4072",
+    "body_colour": "White",
+    "manufacturer": "TVS",
+    "vehicle_model": "Ntorq 125",
+    "category_type": "Scooter",
+    "state": "GJ"
+  },
+  {
+    "id": 68,
+    "number_plate_raw": "DL02TX7396",
+    "registration_number": "DL02TX7396",
+    "body_colour": "Silver",
+    "manufacturer": "Tata",
+    "vehicle_model": "Curvv",
+    "category_type": "Coupe SUV",
+    "state": "DL"
+  },
+  {
+    "id": 69,
+    "number_plate_raw": "RJ45FS2851",
+    "registration_number": "RJ45FS2851",
+    "body_colour": "White",
+    "manufacturer": "Mahindra",
+    "vehicle_model": "Jeeto",
+    "category_type": "Mini Truck (LCV)",
+    "state": "RJ"
+  },
+  {
+    "id": 70,
+    "number_plate_raw": "KA25WB9617",
+    "registration_number": "KA25WB9617",
+    "body_colour": "Green",
+    "manufacturer": "Swaraj",
+    "vehicle_model": "744 FE",
+    "category_type": "Tractor (Agricultural)",
+    "state": "KA"
+  },
+  {
+    "id": 71,
+    "number_plate_raw": "TN66LC3128",
+    "registration_number": "TN66LC3128",
+    "body_colour": "Maroon",
+    "manufacturer": "Honda",
+    "vehicle_model": "Elevate",
+    "category_type": "Compact SUV",
+    "state": "TN"
+  },
+  {
+    "id": 72,
+    "number_plate_raw": "UP32PN5784",
+    "registration_number": "UP32PN5784",
+    "body_colour": "White",
+    "manufacturer": "Maruti Suzuki",
+    "vehicle_model": "Super Carry",
+    "category_type": "Mini Truck (LCV)",
+    "state": "UP"
+  },
+  {
+    "id": 73,
+    "number_plate_raw": "MP04GE8209",
+    "registration_number": "MP04GE8209",
+    "body_colour": "Silver",
+    "manufacturer": "Skoda",
+    "vehicle_model": "Kushaq",
+    "category_type": "Compact SUV",
+    "state": "MP"
+  },
+  {
+    "id": 74,
+    "number_plate_raw": "CG08RU1953",
+    "registration_number": "CG08RU1953",
+    "body_colour": "Yellow",
+    "manufacturer": "Force",
+    "vehicle_model": "Traveller School Van",
+    "category_type": "School Van",
+    "state": "CG"
+  },
+  {
+    "id": 75,
+    "number_plate_raw": "MH01JY6470",
+    "registration_number": "MH01JY6470",
+    "body_colour": "Blue",
+    "manufacturer": "Bajaj",
+    "vehicle_model": "Dominar 400",
+    "category_type": "Sports Touring Motorcycle",
+    "state": "MH"
+  },
+  {
+    "id": 76,
+    "number_plate_raw": "DL11HK4285",
+    "registration_number": "DL11HK4285",
+    "body_colour": "Black",
+    "manufacturer": "Volkswagen",
+    "vehicle_model": "Taigun",
+    "category_type": "Compact SUV",
+    "state": "DL"
+  },
+  {
+    "id": 77,
+    "number_plate_raw": "GJ05CZ3618",
+    "registration_number": "GJ05CZ3618",
+    "body_colour": "Grey",
+    "manufacturer": "MG",
+    "vehicle_model": "Hector",
+    "category_type": "SUV",
+    "state": "GJ"
+  },
+  {
+    "id": 78,
+    "number_plate_raw": "RJ02AM7042",
+    "registration_number": "RJ02AM7042",
+    "body_colour": "Red",
+    "manufacturer": "Tata",
+    "vehicle_model": "Harrier",
+    "category_type": "SUV",
+    "state": "RJ"
+  },
+  {
+    "id": 79,
+    "number_plate_raw": "KA03XN2396",
+    "registration_number": "KA03XN2396",
+    "body_colour": "White",
+    "manufacturer": "Hyundai",
+    "vehicle_model": "Aura",
+    "category_type": "Compact Sedan",
+    "state": "KA"
+  },
+  {
+    "id": 80,
+    "number_plate_raw": "TN09DB8851",
+    "registration_number": "TN09DB8851",
+    "body_colour": "Orange",
+    "manufacturer": "Tata",
+    "vehicle_model": "Prima 4928.S",
+    "category_type": "Truck (HCV)",
+    "state": "TN"
+  }
+]

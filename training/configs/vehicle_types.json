@@ -1,0 +1,14 @@
+{
+  "classes": [
+    "sedan",
+    "SUV",
+    "hatchback",
+    "motorcycle_scooter",
+    "auto_rickshaw",
+    "bus",
+    "truck",
+    "van",
+    "other"
+  ],
+  "default_threshold": 0.50
+}

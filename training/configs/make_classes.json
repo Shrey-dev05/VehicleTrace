@@ -1,0 +1,28 @@
+{
+  "classes": [
+    "Maruti_Suzuki",
+    "Tata",
+    "Hyundai",
+    "Mahindra",
+    "Honda",
+    "Toyota",
+    "Kia",
+    "Renault",
+    "Volkswagen",
+    "Skoda",
+    "MG",
+    "Nissan",
+    "Mercedes_Benz",
+    "BMW",
+    "Audi",
+    "Other",
+    "Unknown"
+  ],
+  "default_threshold": 0.50,
+  "canonical_aliases": {
+    "Maruti": "Maruti_Suzuki",
+    "Suzuki": "Maruti_Suzuki",
+    "Mercedes": "Mercedes_Benz",
+    "VW": "Volkswagen"
+  }
+}
